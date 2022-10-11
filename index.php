@@ -403,7 +403,7 @@ $_SESSION['login_use'] = 'ecell';
                 <div class="flag-wrapper">
                   <span class="flag" style="background-color:#f18d11"><b>Round 1</b></span>
                 </div>
-                <div class="desc" style="background:none;">Shortlisting on the basis of Form responses. Submission before <span style="color:orange">5th oct 2022</span></div>
+                <div class="desc" style="background:none;">Shortlisting on the basis of Form responses. Submission before <span style="color:orange">15th oct 2022</span></div>
               </div>
             </li>
             
